@@ -10,7 +10,6 @@ Meu nome é Bianca Bala!
 
 bianca.bala.2007@gmail.com
 
-
 ![](https://tenor.com/pt-BR/view/the-chosen-jesus-andrew-simon-dancing-gif-18185342)
 
 
