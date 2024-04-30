@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 👋
 
-<!--
-**biahballa/biahballa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Bianca Bala!
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvimento na linguagem Javascript;
+- Utilizo esse espaço para minha organização e compartilhamento de projetos;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📧
+
+bianca.bala.2007@gmail.com
+
+![](https://tenor.com/pt-BR/view/the-chosen-jesus-andrew-simon-dancing-gif-18185342)
+
+
